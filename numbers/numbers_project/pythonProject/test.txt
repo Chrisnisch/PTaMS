@@ -1,0 +1,9 @@
+Nmin: 100000, Nmax: 1000000, Nexp=7
+Experiments:
+# 1, result: {'op': '-', 'num': 855436, 'outType': 'digit', 'extraParams': 4, 'outVal': 5}
+# 2, result: {'op': '+', 'num': 802675, 'outType': 'digit', 'extraParams': 1, 'outVal': 7}
+# 3, result: {'op': '-', 'num': 557405, 'outType': 'digit', 'extraParams': 4, 'outVal': 0}
+# 4, result: {'op': '*', 'num': 85, 'outType': 'digit', 'extraParams': 6, 'outVal': 5}
+# 5, result: {'op': 'r', 'num': '-', 'outType': '-', 'extraParams': '-', 'outVal': '-', '-': '-'}
+# 6, result: {'op': '//', 'num': 22, 'outType': 'digit', 'extraParams': 3, 'outVal': 0}
+# 7, result: {'op': '+', 'num': 730946, 'outType': 'digit', 'extraParams': 1, 'outVal': 3}
